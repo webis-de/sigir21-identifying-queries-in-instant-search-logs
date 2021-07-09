@@ -1,0 +1,7 @@
+editdistance
+scikit-learn
+numpy
+scipy
+matplotlib
+ngram
+strsim
