@@ -36,7 +36,7 @@ parser.add_argument("--seed",
                     help="Random seed for train/test split")
 parser.add_argument("--dynamic",
                     type=bool,
-                    default=False,
+                    default=True,
                     help="Dynamic lookback enabled")
 parser.add_argument("--verbosity",
                     type=int,
