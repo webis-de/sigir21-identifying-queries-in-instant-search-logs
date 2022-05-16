@@ -1,5 +1,7 @@
 # Setup
 
+Requires python 3.8
+
 run `pip3 install -r requirements.txt`
 
 # Overview
